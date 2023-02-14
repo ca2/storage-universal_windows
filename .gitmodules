@@ -4,3 +4,9 @@
 [submodule "x64"]
 	path = x64
 	url = ../storage-universal_windows-x64
+[submodule "ARM"]
+	path = ARM
+	url = ../storage-universal_windows-ARM
+[submodule "ARM64"]
+	path = ARM64
+	url = ../storage-universal_windows-ARM64
